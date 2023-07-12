@@ -31,14 +31,14 @@ LABEL \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.version="${BUILD_VERSION}" \
     io.hass.type="addon" \
-    maintainer="haberda" \
+    maintainer="fujexo" \
     org.label-schema.description="Signal Messenger" \
     org.label-schema.build-date="${BUILD_DATE}" \
     org.label-schema.name="Signal Messenger" \
     org.label-schema.schema-version="${BUILD_VERSION}" \
-    org.label-schema.url="https://github.com/haberda/signal-addon" \
-    org.label-schema.usage="https://github.com/haberda/signal-addon" \
+    org.label-schema.url="https://github.com/fujexo/signal-addon" \
+    org.label-schema.usage="https://github.com/fujexo/signal-addon" \
     org.label-schema.vcs-ref="${BUILD_REF}" \
-    org.label-schema.vcs-url="https://github.com/haberda/" \
+    org.label-schema.vcs-url="https://github.com/fujexo/" \
     org.label-schema.vendor="No Vendor"
 
